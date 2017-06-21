@@ -1,34 +1,37 @@
-div.one{
-width: 100%;
-border:1px solid red;
+div.one {
+    width: 40%;
+    border: 1px solid black;
+    margin: auto;
 }
 
-header, footer{
-    padding: 1em;
+header, footer {
+    padding: 16px;
     clear: left;
     color: white;
-    background-color: red;
+    background-color: black;
     text-align: center;
 }
 
-nav{
+nav {
     float: left;
     margin: 0;
     max-width: 160px;
     padding: 1em;
 }
 
-nav ul{
+nav ul {
     list-style-type: none;
     padding: 0;
 
 }
-nav ul a{
+
+nav ul a {
     text-decoration: none;
 }
-article{
+
+article {
     margin-left: 170px;
-    border-left: 1px solid red;
-    padding: 1em;
+    border-left: 1px solid black;
+    padding: 16px;
     overflow: hidden;
 }
