@@ -6,7 +6,7 @@ div.one {
 
 header, footer {
     padding: 16px;
-    clear: left;
+    clear: both;
     color: white;
     background-color: black;
     text-align: center;
